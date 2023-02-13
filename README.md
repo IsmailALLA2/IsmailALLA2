@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ismail
 - 👀 I’m interested in learning more of coding
-- 🌱 I’m currently learning reacr js
+- 🌱 I’m currently learning react js
 
 
 <!---
