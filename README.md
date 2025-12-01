@@ -1,22 +1,20 @@
-Hi, I'm Ismail 👋
-Software Engineer | Full-Stack & Mobile Developer | Java Enthusiast
+# Hi, I'm Ismail 👋
 
-I specialize in building scalable backend systems and mobile apps. I love tackling bugs, solving big problems, and turning caffeine into clean code.
+### 1. Who am I?
+I’m a **Software Engineer** and **Java Enthusiast** who loves tackling big problems. I specialize in Full-Stack and Mobile development. My philosophy is simple: I write code that breaks, and then I fix it.
+*Powered by Java, caffeine, and questionable confidence ☕*
 
-🛠 Tech Stack
-Backend: Java, Spring Boot, REST APIs
+### 2. What am I currently working on?
+* 🚀 Currently working as a **Full Stack Developer & IT Consultant** on the **AjiApp** project.
+* 🛠 Building smart business solutions and automating workflows.
 
-Mobile: Flutter (iOS & Android)
+### 3. What tools do I use?
+* **Backend:** Java, Spring Boot, REST APIs
+* **Mobile:** Flutter (iOS & Android)
+* **Frontend:** React, Angular
+* **Data:** MySQL, PostgreSQL, MongoDB
+* **DevOps:** Docker, Git, CI/CD, Cloud
 
-Frontend: React, Angular
-
-Database: MySQL, PostgreSQL, MongoDB
-
-Tools: Git, Docker, CI/CD, Cloud
-
-🚀 Focus
-Building smart business solutions, automating workflows, and learning new frameworks.
-
-Powered by Java, caffeine, and questionable confidence ☕
-
-ismail@example.com • LinkedIn • GitHub
+### 4. How to reach me?
+* 📫 **Email:** [alkaismail2001@gmail.com](mailto:alkaismail2001@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/ismail-alla](https://www.linkedin.com/in/ismail-alla/)
