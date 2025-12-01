@@ -1,9 +1,22 @@
-- 👋 Hi, I’m Ismail
-- 👀 I’m interested in learning more of coding
-- 🌱 I’m currently learning react js
+Hi, I'm Ismail 👋
+Software Engineer | Full-Stack & Mobile Developer | Java Enthusiast
 
+I specialize in building scalable backend systems and mobile apps. I love tackling bugs, solving big problems, and turning caffeine into clean code.
 
-<!---
-IsmailALLA2/IsmailALLA2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠 Tech Stack
+Backend: Java, Spring Boot, REST APIs
+
+Mobile: Flutter (iOS & Android)
+
+Frontend: React, Angular
+
+Database: MySQL, PostgreSQL, MongoDB
+
+Tools: Git, Docker, CI/CD, Cloud
+
+🚀 Focus
+Building smart business solutions, automating workflows, and learning new frameworks.
+
+Powered by Java, caffeine, and questionable confidence ☕
+
+ismail@example.com • LinkedIn • GitHub
